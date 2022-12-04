@@ -1,0 +1,37 @@
+<annotation>
+	<folder>trash-cleanup</folder>
+	<filename>IMG_5429.JPG</filename>
+	<path>/trash-cleanup/IMG_5429.JPG</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Garbage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2487</xmin>
+			<ymin>1477</ymin>
+			<xmax>2800</xmax>
+			<ymax>1774</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Garbage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1846</xmin>
+			<ymin>1230</ymin>
+			<xmax>2407</xmax>
+			<ymax>1709</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>trash-cleanup</folder>
+	<filename>IMG_5415.JPG</filename>
+	<path>/trash-cleanup/IMG_5415.JPG</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+
+	<object>
+		<name>Recycling</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>775</xmin>
+			<ymin>1665</ymin>
+			<xmax>1940</xmax>
+			<ymax>2717</ymax>
+		</bndbox>
+	</object>
+</annotation>

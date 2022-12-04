@@ -1,0 +1,37 @@
+<annotation>
+	<folder>trash-cleanup</folder>
+	<filename>IMG_5456.JPG</filename>
+	<path>/trash-cleanup/IMG_5456.JPG</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Garbage</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>963</xmin>
+			<ymin>1315</ymin>
+			<xmax>1919</xmax>
+			<ymax>2421</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Compost</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1213</xmin>
+			<ymin>1330</ymin>
+			<xmax>1961</xmax>
+			<ymax>1774</ymax>
+		</bndbox>
+	</object>
+</annotation>
