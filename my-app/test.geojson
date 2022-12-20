@@ -1,0 +1,25 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "image_path": "images/csus1\\IMG_2086.JPG", "waste": { "Other": 2 }, "exif": null }, "geometry": { "type": "Point", "coordinates": [ -121.423630555555562, 38.554522222222218 ] } },
+{ "type": "Feature", "properties": { "image_path": "images/csus1\\IMG_2087.JPG", "waste": { "Bottle": 1, "Other": 1 }, "exif": null }, "geometry": { "type": "Point", "coordinates": [ -121.423538888888899, 38.55448055555555 ] } },
+{ "type": "Feature", "properties": { "image_path": "images/csus1\\IMG_2088.JPG", "waste": { "Plastic bag + wrapper": 1 }, "exif": null }, "geometry": { "type": "Point", "coordinates": [ -121.423369444444447, 38.554363888888886 ] } },
+{ "type": "Feature", "properties": { "image_path": "images/csus1\\IMG_2089.JPG", "waste": { "Bottle cap": 1 }, "exif": null }, "geometry": { "type": "Point", "coordinates": [ -121.423422222222229, 38.554152777777773 ] } },
+{ "type": "Feature", "properties": { "image_path": "images/csus1\\IMG_2090.JPG", "waste": { }, "exif": null }, "geometry": { "type": "Point", "coordinates": [ -121.423561111111113, 38.554063888888884 ] } },
+{ "type": "Feature", "properties": { "image_path": "images/csus1\\IMG_2091.JPG", "waste": { "Other": 3, "Pop tab": 1 }, "exif": null }, "geometry": { "type": "Point", "coordinates": [ -121.423552777777786, 38.554030555555556 ] } },
+{ "type": "Feature", "properties": { "image_path": "images/csus1\\IMG_2092.JPG", "waste": { "Plastic bag + wrapper": 4, "Straw": 1, "Other": 1 }, "exif": null }, "geometry": { "type": "Point", "coordinates": [ -121.423386111111114, 38.554072222222217 ] } },
+{ "type": "Feature", "properties": { "image_path": "images/csus1\\IMG_2093.JPG", "waste": { "Other": 1 }, "exif": null }, "geometry": { "type": "Point", "coordinates": [ -121.423238888888889, 38.554247222222216 ] } },
+{ "type": "Feature", "properties": { "image_path": "images/csus1\\IMG_2094.JPG", "waste": { "Plastic bag + wrapper": 1 }, "exif": null }, "geometry": { "type": "Point", "coordinates": [ -121.423225, 38.554252777777776 ] } },
+{ "type": "Feature", "properties": { "image_path": "images/csus1\\IMG_2095.JPG", "waste": { "Plastic bag + wrapper": 1 }, "exif": null }, "geometry": { "type": "Point", "coordinates": [ -121.423202777777789, 38.554252777777776 ] } },
+{ "type": "Feature", "properties": { "image_path": "images/csus1\\IMG_2096.JPG", "waste": { "Other": 2 }, "exif": null }, "geometry": { "type": "Point", "coordinates": [ -121.421936111111123, 38.556169444444443 ] } },
+{ "type": "Feature", "properties": { "image_path": "images/csus1\\IMG_2097.JPG", "waste": { "Other": 1 }, "exif": null }, "geometry": { "type": "Point", "coordinates": [ -121.422036111111112, 38.556230555555551 ] } },
+{ "type": "Feature", "properties": { "image_path": "images/csus1\\IMG_2098.JPG", "waste": { "Other": 1 }, "exif": null }, "geometry": { "type": "Point", "coordinates": [ -121.421997222222231, 38.556502777777773 ] } },
+{ "type": "Feature", "properties": { "image_path": "images/csus1\\IMG_2099.JPG", "waste": { "Other": 2 }, "exif": null }, "geometry": { "type": "Point", "coordinates": [ -121.421958333333336, 38.556486111111106 ] } },
+{ "type": "Feature", "properties": { "image_path": "images/csus1\\IMG_2100.JPG", "waste": { "Other": 1 }, "exif": null }, "geometry": { "type": "Point", "coordinates": [ -121.421861111111113, 38.556477777777772 ] } },
+{ "type": "Feature", "properties": { "image_path": "images/csus1\\IMG_2101.JPG", "waste": { "Plastic bag + wrapper": 2, "Other": 1 }, "exif": null }, "geometry": { "type": "Point", "coordinates": [ -121.421897222222228, 38.556488888888886 ] } },
+{ "type": "Feature", "properties": { "image_path": "images/csus1\\IMG_2102.JPG", "waste": { "Bottle": 1, "Other": 1 }, "exif": null }, "geometry": { "type": "Point", "coordinates": [ -121.4220638888889, 38.556622222222217 ] } },
+{ "type": "Feature", "properties": { "image_path": "images/csus1\\IMG_2103.JPG", "waste": { "Bottle": 1, "Plastic bag + wrapper": 1 }, "exif": null }, "geometry": { "type": "Point", "coordinates": [ -121.42228611111112, 38.556811111111109 ] } },
+{ "type": "Feature", "properties": { "image_path": "images/csus1\\IMG_2104.JPG", "waste": { "Bottle": 1, "Plastic bag + wrapper": 2 }, "exif": null }, "geometry": { "type": "Point", "coordinates": [ -121.422416666666678, 38.556838888888883 ] } },
+{ "type": "Feature", "properties": { "image_path": "images/csus1\\IMG_2105.JPG", "waste": { "Other": 3, "Cigarette": 1 }, "exif": null }, "geometry": { "type": "Point", "coordinates": [ -121.422455555555558, 38.556861111111111 ] } }
+]}

@@ -1,0 +1,935 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.59 e21c39fe",
+  "osm3s": {
+    "timestamp_osm_base": "2022-12-19T20:11:09Z",
+    "timestamp_areas_base": "2022-12-19T19:02:09Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 2908623667,
+  "lat": 38.7121919,
+  "lon": -9.1408691,
+  "tags": {
+    "amenity": "waste_basket"
+  }
+},
+{
+  "type": "node",
+  "id": 2908626375,
+  "lat": 38.7117415,
+  "lon": -9.1406688,
+  "tags": {
+    "amenity": "waste_basket",
+    "check_date": "2022-09-04"
+  }
+},
+{
+  "type": "node",
+  "id": 6751932446,
+  "lat": 38.5391571,
+  "lon": -121.5015216,
+  "tags": {
+    "amenity": "waste_basket"
+  }
+},
+{
+  "type": "node",
+  "id": 7184421467,
+  "lat": 38.7120044,
+  "lon": -9.1407527,
+  "tags": {
+    "amenity": "waste_basket"
+  }
+},
+{
+  "type": "node",
+  "id": 9074933981,
+  "lat": 38.6319961,
+  "lon": -121.5122439,
+  "tags": {
+    "amenity": "waste_basket"
+  }
+},
+{
+  "type": "node",
+  "id": 9074934008,
+  "lat": 38.6325154,
+  "lon": -121.5096455,
+  "tags": {
+    "amenity": "waste_basket"
+  }
+},
+{
+  "type": "node",
+  "id": 9074966892,
+  "lat": 38.6322188,
+  "lon": -121.5099673,
+  "tags": {
+    "amenity": "waste_basket"
+  }
+},
+{
+  "type": "node",
+  "id": 9932439931,
+  "lat": 38.5388504,
+  "lon": -121.5049006,
+  "tags": {
+    "amenity": "waste_basket",
+    "material": "wood",
+    "waste": "trash"
+  }
+},
+{
+  "type": "node",
+  "id": 10096917662,
+  "lat": 38.6343035,
+  "lon": -121.5105865,
+  "tags": {
+    "amenity": "waste_basket"
+  }
+},
+{
+  "type": "node",
+  "id": 10211177308,
+  "lat": 38.5967938,
+  "lon": -121.4969758,
+  "tags": {
+    "amenity": "waste_basket"
+  }
+},
+{
+  "type": "node",
+  "id": 10211225988,
+  "lat": 38.5967264,
+  "lon": -121.4969368,
+  "tags": {
+    "amenity": "waste_basket"
+  }
+},
+{
+  "type": "node",
+  "id": 10211225989,
+  "lat": 38.5966372,
+  "lon": -121.4969062,
+  "tags": {
+    "amenity": "waste_basket"
+  }
+},
+{
+  "type": "node",
+  "id": 10211225990,
+  "lat": 38.5966174,
+  "lon": -121.4971192,
+  "tags": {
+    "amenity": "waste_basket"
+  }
+},
+{
+  "type": "node",
+  "id": 10241498860,
+  "lat": 38.5644500,
+  "lon": -121.4259755,
+  "tags": {
+    "amenity": "waste_basket",
+    "waste": "trash;organic;recycling"
+  }
+},
+{
+  "type": "node",
+  "id": 10241518851,
+  "lat": 38.5634661,
+  "lon": -121.4279202,
+  "tags": {
+    "amenity": "waste_basket",
+    "waste": "trash;organic;recycling"
+  }
+},
+{
+  "type": "node",
+  "id": 10241518852,
+  "lat": 38.5625590,
+  "lon": -121.4279435,
+  "tags": {
+    "amenity": "waste_basket",
+    "waste": "trash;recycling;organic"
+  }
+},
+{
+  "type": "node",
+  "id": 10241518853,
+  "lat": 38.5622988,
+  "lon": -121.4266911,
+  "tags": {
+    "amenity": "waste_basket",
+    "waste": "trash;organic;recycling"
+  }
+},
+{
+  "type": "node",
+  "id": 10241518854,
+  "lat": 38.5624342,
+  "lon": -121.4257303,
+  "tags": {
+    "amenity": "waste_basket",
+    "waste": "trash;organic;recycling"
+  }
+},
+{
+  "type": "node",
+  "id": 10241518855,
+  "lat": 38.5625448,
+  "lon": -121.4252718,
+  "tags": {
+    "amenity": "waste_basket",
+    "waste": "trash;organic;recycling"
+  }
+},
+{
+  "type": "node",
+  "id": 10241518856,
+  "lat": 38.5628880,
+  "lon": -121.4252983,
+  "tags": {
+    "amenity": "waste_basket",
+    "waste": "trash;organic;recycling"
+  }
+},
+{
+  "type": "node",
+  "id": 10241518857,
+  "lat": 38.5634193,
+  "lon": -121.4254930,
+  "tags": {
+    "amenity": "waste_basket",
+    "waste": "trash;organic;recycling"
+  }
+},
+{
+  "type": "node",
+  "id": 10241518858,
+  "lat": 38.5639302,
+  "lon": -121.4262757,
+  "tags": {
+    "amenity": "waste_basket",
+    "waste": "trash;organic;recycling"
+  }
+},
+{
+  "type": "node",
+  "id": 10241518859,
+  "lat": 38.5641970,
+  "lon": -121.4271970,
+  "tags": {
+    "amenity": "waste_basket",
+    "waste": "trash;organic;recycling"
+  }
+},
+{
+  "type": "node",
+  "id": 10241518874,
+  "lat": 38.5646823,
+  "lon": -121.4278560,
+  "tags": {
+    "amenity": "waste_basket",
+    "waste": "trash;organic;recycling"
+  }
+},
+{
+  "type": "node",
+  "id": 10241518875,
+  "lat": 38.5644940,
+  "lon": -121.4275187,
+  "tags": {
+    "amenity": "waste_basket",
+    "waste": "trash;organic;recycling"
+  }
+},
+{
+  "type": "node",
+  "id": 10241518876,
+  "lat": 38.5642806,
+  "lon": -121.4274801,
+  "tags": {
+    "amenity": "waste_basket",
+    "waste": "trash;organic;recycling"
+  }
+},
+{
+  "type": "node",
+  "id": 10241518877,
+  "lat": 38.5673290,
+  "lon": -121.4288137,
+  "tags": {
+    "amenity": "waste_basket",
+    "waste": "trash"
+  }
+},
+{
+  "type": "node",
+  "id": 10243532874,
+  "lat": 38.5730443,
+  "lon": -121.4327568,
+  "tags": {
+    "amenity": "waste_basket",
+    "waste": "trash"
+  }
+},
+{
+  "type": "node",
+  "id": 10243532875,
+  "lat": 38.5722265,
+  "lon": -121.4327192,
+  "tags": {
+    "amenity": "waste_basket",
+    "waste": "trash"
+  }
+},
+{
+  "type": "node",
+  "id": 10258117270,
+  "lat": 38.5636582,
+  "lon": -121.4233017,
+  "tags": {
+    "amenity": "waste_basket",
+    "waste": "trash;organic;recycling"
+  }
+},
+{
+  "type": "node",
+  "id": 10258117271,
+  "lat": 38.5636522,
+  "lon": -121.4274317,
+  "tags": {
+    "amenity": "waste_basket",
+    "waste": "trash;organic;recycling"
+  }
+},
+{
+  "type": "node",
+  "id": 10258117272,
+  "lat": 38.5645068,
+  "lon": -121.4277079,
+  "tags": {
+    "amenity": "waste_basket",
+    "waste": "trash;organic;recycling"
+  }
+},
+{
+  "type": "node",
+  "id": 10258117273,
+  "lat": 38.5621332,
+  "lon": -121.4250660,
+  "tags": {
+    "amenity": "waste_basket",
+    "waste": "trash;organic;recycling"
+  }
+},
+{
+  "type": "node",
+  "id": 10258117274,
+  "lat": 38.5631391,
+  "lon": -121.4235332,
+  "tags": {
+    "amenity": "waste_basket",
+    "waste": "trash;organic;recycling"
+  }
+},
+{
+  "type": "node",
+  "id": 10258117275,
+  "lat": 38.5640172,
+  "lon": -121.4234656,
+  "tags": {
+    "amenity": "waste_basket",
+    "waste": "trash;organic;recycling"
+  }
+},
+{
+  "type": "node",
+  "id": 10258117276,
+  "lat": 38.5627878,
+  "lon": -121.4255315,
+  "tags": {
+    "amenity": "waste_basket",
+    "waste": "trash;organic;recycling"
+  }
+},
+{
+  "type": "node",
+  "id": 10258117277,
+  "lat": 38.5626546,
+  "lon": -121.4248580,
+  "tags": {
+    "amenity": "waste_basket",
+    "waste": "trash;organic;recycling"
+  }
+},
+{
+  "type": "node",
+  "id": 10258117278,
+  "lat": 38.5632568,
+  "lon": -121.4267767,
+  "tags": {
+    "amenity": "waste_basket",
+    "waste": "trash;organic;recycling"
+  }
+},
+{
+  "type": "node",
+  "id": 10258117279,
+  "lat": 38.5632354,
+  "lon": -121.4231313,
+  "tags": {
+    "amenity": "waste_basket",
+    "waste": "trash;organic;recycling"
+  }
+},
+{
+  "type": "node",
+  "id": 10258117280,
+  "lat": 38.5628956,
+  "lon": -121.4239120,
+  "tags": {
+    "amenity": "waste_basket",
+    "waste": "trash;organic;recycling"
+  }
+},
+{
+  "type": "node",
+  "id": 10258117281,
+  "lat": 38.5642430,
+  "lon": -121.4262349,
+  "tags": {
+    "amenity": "waste_basket",
+    "waste": "trash;organic;recycling"
+  }
+},
+{
+  "type": "node",
+  "id": 10258117282,
+  "lat": 38.5632379,
+  "lon": -121.4259928,
+  "tags": {
+    "amenity": "waste_basket",
+    "waste": "trash;organic;recycling"
+  }
+},
+{
+  "type": "node",
+  "id": 10258117283,
+  "lat": 38.5636112,
+  "lon": -121.4229504,
+  "tags": {
+    "amenity": "waste_basket",
+    "waste": "trash;recycling"
+  }
+},
+{
+  "type": "node",
+  "id": 10258117284,
+  "lat": 38.5629350,
+  "lon": -121.4246707,
+  "tags": {
+    "amenity": "waste_basket",
+    "waste": "trash;organic;recycling"
+  }
+},
+{
+  "type": "node",
+  "id": 10258117285,
+  "lat": 38.5646878,
+  "lon": -121.4234589,
+  "tags": {
+    "amenity": "waste_basket",
+    "waste": "trash;recycling"
+  }
+},
+{
+  "type": "node",
+  "id": 10258117287,
+  "lat": 38.5631863,
+  "lon": -121.4239816,
+  "tags": {
+    "amenity": "waste_basket",
+    "waste": "trash;organic;recycling"
+  }
+},
+{
+  "type": "node",
+  "id": 10258117288,
+  "lat": 38.5630382,
+  "lon": -121.4240987,
+  "tags": {
+    "amenity": "waste_basket",
+    "waste": "trash;organic;recycling"
+  }
+},
+{
+  "type": "node",
+  "id": 10258117289,
+  "lat": 38.5628949,
+  "lon": -121.4270759,
+  "tags": {
+    "amenity": "waste_basket",
+    "waste": "trash;organic;recycling"
+  }
+},
+{
+  "type": "node",
+  "id": 10258141991,
+  "lat": 38.5581534,
+  "lon": -121.4242862,
+  "tags": {
+    "amenity": "waste_basket",
+    "waste": "trash;organic;recycling"
+  }
+},
+{
+  "type": "node",
+  "id": 10258141992,
+  "lat": 38.5605600,
+  "lon": -121.4217277,
+  "tags": {
+    "amenity": "waste_basket",
+    "waste": "trash;organic;recycling"
+  }
+},
+{
+  "type": "node",
+  "id": 10258141993,
+  "lat": 38.5589902,
+  "lon": -121.4234592,
+  "tags": {
+    "amenity": "waste_basket",
+    "waste": "trash;organic;recycling"
+  }
+},
+{
+  "type": "node",
+  "id": 10258141994,
+  "lat": 38.5602397,
+  "lon": -121.4202096,
+  "tags": {
+    "amenity": "waste_basket",
+    "covered": "yes",
+    "indoor": "no",
+    "waste": "trash;organic;recycling"
+  }
+},
+{
+  "type": "node",
+  "id": 10258141995,
+  "lat": 38.5608632,
+  "lon": -121.4213490,
+  "tags": {
+    "amenity": "waste_basket",
+    "waste": "trash;organic;recycling"
+  }
+},
+{
+  "type": "node",
+  "id": 10258141996,
+  "lat": 38.5574968,
+  "lon": -121.4198107,
+  "tags": {
+    "amenity": "waste_basket",
+    "waste": "trash;organic;recycling"
+  }
+},
+{
+  "type": "node",
+  "id": 10258141997,
+  "lat": 38.5585382,
+  "lon": -121.4234084,
+  "tags": {
+    "amenity": "waste_basket",
+    "waste": "trash;organic;recycling"
+  }
+},
+{
+  "type": "node",
+  "id": 10258141998,
+  "lat": 38.5603996,
+  "lon": -121.4238810,
+  "tags": {
+    "amenity": "waste_basket",
+    "waste": "trash;organic;recycling"
+  }
+},
+{
+  "type": "node",
+  "id": 10258141999,
+  "lat": 38.5577946,
+  "lon": -121.4206318,
+  "tags": {
+    "amenity": "waste_basket",
+    "waste": "trash;recycling"
+  }
+},
+{
+  "type": "node",
+  "id": 10258142000,
+  "lat": 38.5596750,
+  "lon": -121.4213842,
+  "tags": {
+    "amenity": "waste_basket",
+    "waste": "trash;organic;recycling"
+  }
+},
+{
+  "type": "node",
+  "id": 10258142001,
+  "lat": 38.5589302,
+  "lon": -121.4239364,
+  "tags": {
+    "amenity": "waste_basket",
+    "waste": "trash;organic;recycling"
+  }
+},
+{
+  "type": "node",
+  "id": 10258142002,
+  "lat": 38.5593422,
+  "lon": -121.4208215,
+  "tags": {
+    "amenity": "waste_basket",
+    "waste": "trash;recycling"
+  }
+},
+{
+  "type": "node",
+  "id": 10258142003,
+  "lat": 38.5600137,
+  "lon": -121.4227461,
+  "tags": {
+    "amenity": "waste_basket",
+    "waste": "trash;organic;recycling"
+  }
+},
+{
+  "type": "node",
+  "id": 10258142004,
+  "lat": 38.5601585,
+  "lon": -121.4215971,
+  "tags": {
+    "amenity": "waste_basket",
+    "waste": "trash;organic;recycling"
+  }
+},
+{
+  "type": "node",
+  "id": 10258142005,
+  "lat": 38.5606412,
+  "lon": -121.4241991,
+  "tags": {
+    "amenity": "waste_basket",
+    "waste": "trash;organic;recycling"
+  }
+},
+{
+  "type": "node",
+  "id": 10258142006,
+  "lat": 38.5615336,
+  "lon": -121.4236983,
+  "tags": {
+    "amenity": "waste_basket",
+    "waste": "trash;organic;recycling"
+  }
+},
+{
+  "type": "node",
+  "id": 10258142007,
+  "lat": 38.5616110,
+  "lon": -121.4226681,
+  "tags": {
+    "amenity": "waste_basket",
+    "waste": "trash;organic;recycling"
+  }
+},
+{
+  "type": "node",
+  "id": 10258142008,
+  "lat": 38.5582709,
+  "lon": -121.4237946,
+  "tags": {
+    "amenity": "waste_basket",
+    "waste": "trash;organic;recycling"
+  }
+},
+{
+  "type": "node",
+  "id": 10258173409,
+  "lat": 38.5591495,
+  "lon": -121.4236326,
+  "tags": {
+    "amenity": "waste_basket",
+    "waste": "trash;organic;recycling"
+  }
+},
+{
+  "type": "node",
+  "id": 10258173410,
+  "lat": 38.5591778,
+  "lon": -121.4235521,
+  "tags": {
+    "amenity": "waste_basket",
+    "waste": "trash;organic;recycling"
+  }
+},
+{
+  "type": "node",
+  "id": 10258173411,
+  "lat": 38.5601788,
+  "lon": -121.4210882,
+  "tags": {
+    "amenity": "waste_basket",
+    "waste": "trash;organic;recycling"
+  }
+},
+{
+  "type": "node",
+  "id": 10258173412,
+  "lat": 38.5605676,
+  "lon": -121.4213576,
+  "tags": {
+    "amenity": "waste_basket",
+    "waste": "trash;organic;recycling"
+  }
+},
+{
+  "type": "node",
+  "id": 10258173413,
+  "lat": 38.5610822,
+  "lon": -121.4221860,
+  "tags": {
+    "amenity": "waste_basket",
+    "waste": "trash;organic;recycling"
+  }
+},
+{
+  "type": "node",
+  "id": 10258173414,
+  "lat": 38.5641622,
+  "lon": -121.4276500,
+  "tags": {
+    "amenity": "waste_basket",
+    "waste": "trash;organic;recycling"
+  }
+},
+{
+  "type": "node",
+  "id": 10258173415,
+  "lat": 38.5613184,
+  "lon": -121.4234838,
+  "tags": {
+    "amenity": "waste_basket",
+    "waste": "trash;organic;recycling"
+  }
+},
+{
+  "type": "node",
+  "id": 10258173416,
+  "lat": 38.5588732,
+  "lon": -121.4205084,
+  "tags": {
+    "amenity": "waste_basket",
+    "waste": "trash;recycling"
+  }
+},
+{
+  "type": "node",
+  "id": 10258173417,
+  "lat": 38.5591237,
+  "lon": -121.4194462,
+  "tags": {
+    "amenity": "waste_basket",
+    "waste": "trash;recycling"
+  }
+},
+{
+  "type": "node",
+  "id": 10258173418,
+  "lat": 38.5578946,
+  "lon": -121.4223597,
+  "tags": {
+    "amenity": "waste_basket",
+    "waste": "trash;organic;recycling"
+  }
+},
+{
+  "type": "node",
+  "id": 10258173419,
+  "lat": 38.5570804,
+  "lon": -121.4232862,
+  "tags": {
+    "amenity": "waste_basket",
+    "waste": "trash;organic;recycling"
+  }
+},
+{
+  "type": "node",
+  "id": 10258173420,
+  "lat": 38.5602064,
+  "lon": -121.4217970,
+  "tags": {
+    "amenity": "waste_basket",
+    "waste": "trash;organic;recycling"
+  }
+},
+{
+  "type": "node",
+  "id": 10258173421,
+  "lat": 38.5580000,
+  "lon": -121.4230609,
+  "tags": {
+    "amenity": "waste_basket",
+    "waste": "trash;organic;recycling"
+  }
+},
+{
+  "type": "node",
+  "id": 10258173422,
+  "lat": 38.5595751,
+  "lon": -121.4200386,
+  "tags": {
+    "amenity": "waste_basket",
+    "waste": "trash;recycling"
+  }
+},
+{
+  "type": "node",
+  "id": 10258173423,
+  "lat": 38.5597577,
+  "lon": -121.4206707,
+  "tags": {
+    "amenity": "waste_basket",
+    "waste": "trash;organic;recycling"
+  }
+},
+{
+  "type": "node",
+  "id": 10258173424,
+  "lat": 38.5602312,
+  "lon": -121.4231643,
+  "tags": {
+    "amenity": "waste_basket",
+    "waste": "trash;organic;recycling"
+  }
+},
+{
+  "type": "node",
+  "id": 10258173425,
+  "lat": 38.5593239,
+  "lon": -121.4212534,
+  "tags": {
+    "amenity": "waste_basket",
+    "waste": "trash;organic;recycling"
+  }
+},
+{
+  "type": "node",
+  "id": 10258173426,
+  "lat": 38.5580202,
+  "lon": -121.4208932,
+  "tags": {
+    "amenity": "waste_basket",
+    "waste": "trash;recycling"
+  }
+},
+{
+  "type": "node",
+  "id": 10258173427,
+  "lat": 38.5586802,
+  "lon": -121.4200873,
+  "tags": {
+    "amenity": "waste_basket",
+    "waste": "trash;organic;recycling"
+  }
+},
+{
+  "type": "node",
+  "id": 10258173428,
+  "lat": 38.5615838,
+  "lon": -121.4219636,
+  "tags": {
+    "amenity": "waste_basket",
+    "waste": "trash;organic;recycling"
+  }
+},
+{
+  "type": "node",
+  "id": 10258173429,
+  "lat": 38.5611928,
+  "lon": -121.4238969,
+  "tags": {
+    "amenity": "waste_basket",
+    "waste": "trash;organic;recycling"
+  }
+},
+{
+  "type": "node",
+  "id": 10258173430,
+  "lat": 38.5607126,
+  "lon": -121.4237131,
+  "tags": {
+    "amenity": "waste_basket",
+    "waste": "trash;organic;recycling"
+  }
+},
+{
+  "type": "node",
+  "id": 10263050495,
+  "lat": 38.5793365,
+  "lon": -121.4260698,
+  "tags": {
+    "amenity": "waste_basket",
+    "waste": "mixed"
+  }
+},
+{
+  "type": "node",
+  "id": 10263050496,
+  "lat": 38.5791051,
+  "lon": -121.4260041,
+  "tags": {
+    "amenity": "waste_basket",
+    "waste": "mixed"
+  }
+},
+{
+  "type": "node",
+  "id": 10263050497,
+  "lat": 38.5793090,
+  "lon": -121.4263914,
+  "tags": {
+    "amenity": "waste_basket",
+    "waste": "mixed"
+  }
+},
+{
+  "type": "node",
+  "id": 10263050498,
+  "lat": 38.5798028,
+  "lon": -121.4256632,
+  "tags": {
+    "amenity": "waste_basket",
+    "waste": "mixed"
+  }
+},
+{
+  "type": "node",
+  "id": 10263050499,
+  "lat": 38.5784488,
+  "lon": -121.4254904,
+  "tags": {
+    "amenity": "waste_basket",
+    "waste": "mixed"
+  }
+}
+
+  ]
+}
